@@ -1,6 +1,6 @@
 # 🐰🔥 토끼 병사단의 야영지 · 모바일 (Camfire Game Mobile)
 
-> [토끼 병사단의 야영지](https://www.google.com/search?q=https://github.com/jeongseoyun0320-dev/camfiregame)를 휴대폰 터치로 플레이할 수 있게 만든 **모바일 버전**입니다.
+> [토끼 병사단의 야영지](https://github.com/jeongseoyun0320-dev/camfiregame)를 휴대폰 터치로 플레이할 수 있게 만든 **모바일 버전**입니다.
 
 60초 안에 멧돼지를 사냥해 굽고, 쓰러진 동료를 살릴 약초를 캐 약을 만드는 8비트 세피아 톤 타임어택 어드벤처.
 설치 없이 브라우저에서 바로 플레이할 수 있는 HTML 파일 하나짜리 게임입니다.
