@@ -30,7 +30,7 @@
 
 ## 🛠 기술 스택
 
-* HTML5 Canvas + 순수 JavaScript (라이브러리 없음, 이미지 파일 0개)
+* HTML5 Canvas + 순수 JavaScript
 * 192×108 저해상도 캔버스를 화면 크기에 맞게 확대
 * Pointer Events 기반 멀티터치 가상 조이스틱/버튼
 
